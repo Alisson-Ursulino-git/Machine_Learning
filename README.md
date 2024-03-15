@@ -1,0 +1,1 @@
+This repository is dedicated to solving problems using classic Machine Learning tools. Here, we explore traditional algorithms and established techniques for data analysis, predictions, and classifications. If you’re interested in learning and applying fundamental Machine Learning concepts, you’re in the right place! 🚀
